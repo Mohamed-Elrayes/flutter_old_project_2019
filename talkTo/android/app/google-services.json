@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466266924512",
+    "project_id": "talkto-6b2a6",
+    "storage_bucket": "talkto-6b2a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466266924512:android:fa19fea27c62f2f10df785",
+        "android_client_info": {
+          "package_name": "com.example.talk_to"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466266924512-1ae7v7p54k5534v0io4rbjk8ioimhtuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCflEPxeBiO51vL9CMi9HGjYWkV2FmgdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466266924512-1ae7v7p54k5534v0io4rbjk8ioimhtuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
